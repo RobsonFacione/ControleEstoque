@@ -7,6 +7,9 @@ Em desenvolvimento
 
 
 Linguagem a serem usadas
+
 Backend: Spring
+
 DB: PostgreSQL
+
 Front-end: HTML + CSS
