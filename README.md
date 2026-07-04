@@ -1,5 +1,3 @@
-# ControleEstoque
-
 Em desenvolvimento
 
 - Criação de item
